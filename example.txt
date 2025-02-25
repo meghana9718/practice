@@ -1,1 +1,2 @@
-welcome to git practice sessions
+welcome to git practice sessionis
+hi how are you
